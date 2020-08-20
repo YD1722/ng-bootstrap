@@ -3,8 +3,8 @@
   "dest": "../dist/ng-bootstrap",
   "lib": {
     "flatModuleFile": "ng-bootstrap",
-    "entryFile": "./index.ts",
-    "umdId": "ngb",
-    "amdId": "ngb"
+    "entryFile": "./dfn-custom-index.ts"
   }
 }
+
+

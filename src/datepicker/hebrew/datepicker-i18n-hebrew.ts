@@ -1,7 +1,7 @@
 import {NgbDatepickerI18n} from '../datepicker-i18n';
-import {NgbDateStruct} from '../../index';
 import {hebrewNumerals, isHebrewLeapYear} from './hebrew';
 import {Injectable} from '@angular/core';
+import {NgbDateStruct} from '../datepicker.module';
 
 
 const WEEKDAYS = ['שני', 'שלישי', 'רביעי', 'חמישי', 'שישי', 'שבת', 'ראשון'];

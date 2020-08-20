@@ -23,6 +23,7 @@ export {NgbDatepickerNavigationSelect} from './datepicker-navigation-select';
 export {NgbDatepickerConfig} from './datepicker-config';
 export {NgbInputDatepickerConfig} from './datepicker-input-config';
 export {NgbDatepickerI18n} from './datepicker-i18n';
+export {NgbDatepickerI18nDefault} from './datepicker-i18n';
 export {NgbDateStruct} from './ngb-date-struct';
 export {NgbDate} from './ngb-date';
 export {NgbDateAdapter} from './adapters/ngb-date-adapter';
@@ -30,6 +31,7 @@ export {NgbDateNativeAdapter} from './adapters/ngb-date-native-adapter';
 export {NgbDateNativeUTCAdapter} from './adapters/ngb-date-native-utc-adapter';
 export {NgbDateParserFormatter} from './ngb-date-parser-formatter';
 export {NgbDatepickerKeyboardService} from './datepicker-keyboard-service';
+export {NgbCalendarHijri} from './hijri/ngb-calendar-hijri';
 
 @NgModule({
   declarations: [
